@@ -323,6 +323,7 @@ These advanced config options are also available:
 * `noChildrenClass` The class applied to items that cannot have children (default `'dd-nochildren'`)
 * `placeClass` The class of the placeholder element (default `'dd-placeholder'`)
 * `emptyClass` The class used for empty list placeholder elements (default `'dd-empty'`)
+* `fixed` Dont delete the Item after moving to another list (default `false`)
 * `expandBtnHTML` The HTML text used to generate a list item expand button (default `'<button data-action="expand">Expand></button>'`)
 * `collapseBtnHTML` The HTML text used to generate a list item collapse button (default `'<button data-action="collapse">Collapse</button>'`)
 * `includeContent` Enable or disable the content in output (default `false`)
